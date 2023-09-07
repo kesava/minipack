@@ -149,7 +149,7 @@ function bundle(graph) {
 }
 
 const graph = createGraph(
-  '/Users/SIS/Documents/supportworkspace/communities/communities-webapp/communities-webapp/src/main/ui/src/pages/search/react/main.ssr.jsx'
+  'file.js'
 );
 const result = bundle(graph);
 
